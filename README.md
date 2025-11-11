@@ -6,6 +6,13 @@
 
 <h1 align="center">Hi there, I'm Juan Farfán  👋</h1>
 
+
+- 💻 **Frontend Dev | React**  
+- 🎨 **Multimedia Engineer Student**  
+- ✏️ **Art & Illustration**  
+- 🚀 **Art + Tech**  
+- 🌈 **Code as Expression**  
+
 ###
 
 <div align="center">
