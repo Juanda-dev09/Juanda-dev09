@@ -11,7 +11,6 @@
 - 🎨 **Multimedia Engineer Student**  
 - ✏️ **Art & Illustration**  
 - 🚀 **Art + Tech**  
-- 🌈 **Code as Expression**  
 
 ###
 
