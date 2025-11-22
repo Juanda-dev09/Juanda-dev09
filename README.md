@@ -10,7 +10,6 @@
 - 💻 **Frontend Dev | React**  
 - 🎨 **Multimedia Engineer Student**  
 - ✏️ **Art & Illustration**  
-- 🚀 **Art + Tech**  
 
 ###
 
